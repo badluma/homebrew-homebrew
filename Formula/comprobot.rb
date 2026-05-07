@@ -8,7 +8,7 @@ class Comprobot < Formula
   license "MIT"
   head "https://github.com/badluma/Comprobot.git", branch: "main"
 
-  depends_on "python@3.12"
+  depends_on "python3"
 
   def install
     venv = virtualenv_create(libexec, "python3")
