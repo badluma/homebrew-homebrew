@@ -3,8 +3,8 @@ class Comprobot < Formula
 
   desc "Self-hostable Discord bot built for maximum customization"
   homepage "https://badluma.github.io/Comprobot-Docs"
-  url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-  sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+  url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+  sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   license "MIT"
   head "https://github.com/badluma/Comprobot.git", branch: "main"
 
@@ -12,233 +12,233 @@ class Comprobot < Formula
   depends_on "rust" => :build
 
   resource "aiohappyeyeballs" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "aiohttp" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "aiosignal" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "annotated-types" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "anyio" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "appdirs" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "attrs" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "audioop-lts" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "certifi" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "cffi" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "charset-normalizer" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "cryptography" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "davey" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "discord-py" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "distro" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "frozenlist" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "google-auth" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "google-genai" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "groq" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "h11" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "httpcore" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "httpx" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "idna" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "inquirerpy" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "multidict" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "ollama" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "pfzy" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "prompt-toolkit" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "propcache" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "pyasn1" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "pyasn1-modules" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "pycparser" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "pydantic" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "pydantic-core" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "pynacl" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "python-dotenv" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "requests" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "sniffio" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "tenacity" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "tomlkit" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "typing-extensions" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "typing-inspection" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "urllib3" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "wcwidth" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "websockets" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   resource "yarl" do
-    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.3.tar.gz"
-    sha256 "a738b2677255c794246dc4cd7523eb37e9b2f3e73101866041bac773e068f20b"
+    url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.3.4.tar.gz"
+    sha256 "5d3388bbc0d3856570aa574e6d97b485691a6ff441899ac05720475d6980d7d8"
   end
 
   def install
