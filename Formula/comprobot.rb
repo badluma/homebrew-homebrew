@@ -9,11 +9,11 @@ class Comprobot < Formula
   head "https://github.com/badluma/Comprobot.git", branch: "main"
 
   bottle do
-    root_url "https://github.com/badluma/Comprobot/archive/refs/tags/v2.4.3.tar.gz"
-    rebuild 1
-    sha256 cellar: :any_skip_relocation, arm64_tahoe:   "55610456be3992c2d284135511249d79358eee3926eff3968da7cc94a6c156d1"
-    sha256 cellar: :any_skip_relocation, arm64_sequoia: "bccc9d7382037257f4ffa3560db199214d2e5b0a96da41ee09ade043250f9ab0"
-    sha256 cellar: :any_skip_relocation, arm64_sonoma:  "4c9d3942a9c4027c5edbc5da75a7ccd3626d800a212d86f69baa7eed1997f8a0"
+    root_url "https://github.com/badluma/Comprobot/releases/download/v2.4.3"
+    rebuild 2
+    sha256 cellar: :any_skip_relocation, arm64_tahoe:   "7f039bcbd9db957c8121a3b139acc4cef2850b07fa50b07ec62f3936ff93ffdd"
+    sha256 cellar: :any_skip_relocation, arm64_sequoia: "77d71a4cae1faeea79cb8b7836378f81a678bec16a61a7cf3106bcdcd518d9b9"
+    sha256 cellar: :any_skip_relocation, arm64_sonoma:  "88a5599fbcfd1a330f906b19653bf0ee7d16d636bf7e48c2c6d57573e3243af1"
   end
 
   depends_on "python3"
